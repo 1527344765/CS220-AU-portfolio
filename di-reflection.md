@@ -1,3 +1,17 @@
+
+## Digital identity reflection
+
+The following essay briefly illustrate:
+
+- What is digital identity
+- The feactures of digital identity 
+- The benefits and drawbacks of digital identity 
+- my understanding about digital identity within VR maps. 
+
+<br>
+
+## Main Body
+
 Within the development of website via internet, there is a plenty of people have decided to be  cypercitizens through creating accounts on different social media platforms such as Facebook.As result of it, people get to konw and communicate with different people from different parts of world instead of face-to-face way. Therefore, those people get their own digital identites.As to digital indentity, it is a concept in cyberspace. It refers to the description of a group of individuals or things (sometimes referred to as subject or entity)Data, or all the information about a person available on the Internetsum. It is a type of network used by individuals, organizations or electronic devices.An online identity, or network identity. These individuals, organizations or telecom Sub-devices may have more than one number through different online communities identity. These digital identities are composed of some characteristics or digital attributes.Thus, digital identity provides us with a virtual social circle so that those people can be found by their "footprints".
 
 There are a lot of characteritics about the digital identity.First of all, the digital identity is diverse.In the Internet age, people can build diverse digital identities according to different situations. These digital identities will vary depending on the specific context, purpose of application, and type of service provided. Due to the virtual nature of network communication, people can almost have any identity they want on the network and even have multiple identities at the same time without conflicting with each other.
@@ -17,8 +31,12 @@ It is undeniable that digital identity owns positive and negative impacts.As for
 
 <br>
 
+
+## My digtial identity on VR map
+
 ![image](https://github.com/2008771/CS220-AU-portfolio/blob/eda7836dece4632cc8f53d5c08bbaa516c6a1ba2/IMG_20211208_154154.jpg)
 
+According to the first 
 <br>
 
 ### Questions you should/could export 
