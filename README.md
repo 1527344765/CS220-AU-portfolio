@@ -1,6 +1,17 @@
 # CS220 AU portfolio
-Overview
-This is an overview which includes my elementary information such as my natiolality,age, interests and what I am studdying in my persoanl introduction. At the same time, this github repository  also involves necessary parts(log, to do list) to show what I had done anything so far since this portfolio was created. 
+## Overview
+ This is an overview which includes my elementary information such as my natiolality,age, interests and what I am studdying in my persoanl introduction. 
+<br>
+At the same time, this Github repository  also involves necessary parts(log, to do list) to show what I had done anything so far since this portfolio was created.
+<br>
+This Github repository is used for the CS220 AU assignment, my student identity is 2008771.
+<br>
+It includes files below:
+- README.md
+- assessement.md
+- di-reflection.md
+- final-check.md
+- index.md
 
 
 <br>
