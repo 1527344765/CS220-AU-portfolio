@@ -25,6 +25,7 @@ This is an overview which includes my elementary information such as my natiolal
 ## TODO
 - 
 - add some pictures to my CV
--complete the essay 
+- complete the essay  
+- continue to modify the github page
 
 <br>
