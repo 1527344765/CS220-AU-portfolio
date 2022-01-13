@@ -36,32 +36,27 @@ It is undeniable that digital identity owns positive and negative impacts.As for
 
 ![image](https://github.com/2008771/CS220-AU-portfolio/blob/eda7836dece4632cc8f53d5c08bbaa516c6a1ba2/IMG_20211208_154154.jpg)
 
-According to the first 
-<br>
+According to the first VR map, it claimed that the Bilibili, Wechat and personal email were my major activities on resident model.
+The visitor model showed that Google browser and YouTube were my more frequent activities on it.
+As for the other applications such as Linkedin, I used them much less as most of them are institutional which may have little effect on my cuurent career.
+On the other hand, I did not often use Google scholar until there were assignments as it could be a source of citation and references of my essays.
 
-### Questions you should/could export 
-- do I know people who are much older than me and can use technology efficiently e.g. the Web more efficiently?
-- what does it actually mean "to use the Web more efficiently"?
-- what's the difference between White et al.'s and Prensky's idea regarding people engaging with technology?
-- on the V&R map, what's the fundamental difference between 'visitor' modes and 'resident' modes and what does the 'personal on institutional' dimension provide?
-- how have I been using digital technology in different contexts i.e. how has my 'digital journey' changed since my first device e.g. the one given to me by parents?
-- how can/should I (or shouldn't) link my personal identities to my professional identities?
-- what implications do my visitor identities have on my personal life?
-- what implications do my personal identities have on my professional/institutional life?
-- what implications do my resident identities have on my personal life?
-- what implications do my resident identities have on my professional/institutional life?
-- how do I assess the credibility of information of other people (or institutions) e.g. does it matter how good their profile picture looks or how well their website is designed? 
-- how much fact-checking could people do when visiting my resident identities e.g. my websites or social accounts and who much fact-checking do I need to do when referencing others' work?
-- is a piece of information's creditably in line with how high the information ranks using a search engine?
-- is a piece of information's creditably in line with the creditability (or the number of followers) of a mainstream or alternative broadcaster, its references and perhaps who it was reviewed by? Can this information be biased or could there be a conflict of interest? 
-- what does it mean to critically evaluate information i.e. what is critical thinking?
-- how do I develop my critical thinking regarding my engagement on the Web in my visitor and resident modes?
-- what is my digital capability e.g. what aspect of technology am I comfortable/uncomfortable with?
-- how can I improve my online presence e.g. by monitoring the time I spend on social media vs. work when using my computing device?
-- how can I improve the way I interact with information online e.g. can I access a more mindful/objective instead of a more reactive/emotional/biased state of mind before sharing or commenting on something online?
-- what information about my developing digital identities am I confident sharing publicly?
+As so far,all of those digital identities showed that personal information, interests and education. Although I spent much more time on wechat as I could communicate with friends conveninently, professional Linkedin account created led a possible way to connect with future.
+
+## Second VR map about my digital identity
+
+![image](assets/img/IMG_20220113_105713.jpg)
+
+After learning more about digital identity, I modify some activities and add something new.At present, I tend to be visitor model on Bilibili and Wechat as the contents including videos and articles recommended could be inducive or deceptive so that I have to distinguish them carefully, while I still spend more time on it in leisure time.Moreover, Alipay and mobile bank, which are most important ways to afford products become the most concerned applications. Witihin secrutiy threat on the internet, I wish to spend much more concentration on them.Otherwise, it can be difficult for me to purchase goods as cash payment becomes less popular.Furthermore, I also hope to explore things that I am interested in or be associated wtih my future possible careers on YouTube via enjoying their videos.Or even, I may get in touch with people who owns the same or similar experiences or interests on Linkedin.
 
 <br>
 
-### Thoughts
-- maybe also have the two maps next to each other for easy comparison
+## Conclusion 
+
+Base on above, I considered about my present and digital identity. In most social media platforms, I played roles as vistor or resident model, and own personal accounts. However, As I am a student at present, there is imbalance on time allocations on personal and institutional models, which I perfer personal rather than institutional.Thefore. after acquiring more knowledge about digital identity, I may pay more attention on insitutional models as it may be beneficial for my following digital identities. 
+
+<br>
+
+## Reference lists
+
+Camp J L. Digital identity[J]. IEEE Technology and society Magazine, 2004(
