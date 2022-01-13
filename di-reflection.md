@@ -59,4 +59,4 @@ Base on above, I considered about my present and digital identity. In most socia
 
 ## Reference lists
 
-Camp J L. Digital identity[J]. IEEE Technology and society Magazine, 2004(
+Camp J L. Digital identity[J]. IEEE Technology and society Magazine, 2004(https://ieeexplore.ieee.org/abstract/document/1337889)
