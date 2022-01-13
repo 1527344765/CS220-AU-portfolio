@@ -31,14 +31,15 @@ In July 2020, I began to upload my firt video about film on the platform and unt
 
 ## Screenshots for my video making from imovie
 
-![image](https://github.com/2008771/CS220-AU-portfolio/blob/871722f19f2bf38941fa3f83efe36762e5df93cf/screenshots/premiere%20for%20my%20video%20op.png)
+<br>
+
+Although there is little knolwlege I had learnt about premiere, I tried to edit an opening for my video
+![image](assets/img/premiere for my video op.png)
+
 
 <br>
 
-![image](screenshots/premiere%20for%20my%20video%20op.png)
-
-<br>
-
+![image](assets/img/Screenshot_2022-01-13-08-37-15-277_tv.danmaku.bil.jpg)
 At the same time, mobile premiere applications also help me with editing videos 
 
 <br>
