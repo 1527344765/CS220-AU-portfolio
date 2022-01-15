@@ -34,9 +34,9 @@ It includes files below:
 <br>
 
 ## TODO
-- 
-- add some pictures to my CV
-- complete the essay  
-- continue to modify the github page
+- finish the essay
+- complete the peer assessment
+
+
 
 <br>
