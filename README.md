@@ -34,7 +34,6 @@ It includes files below:
 - 2022-01-14 Complete peer-assessment
 - 2022-01-14 Complete the essay
 - 2022-01-17 Take the final-check
-- 
 <br>
 
 ## TODO
