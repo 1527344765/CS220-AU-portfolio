@@ -31,11 +31,14 @@ It includes files below:
 - 2021-12-17 Consider about the new VR map
 - 2021-12-19 Start to edit following parts of essay on laptop
 - 2022-01-03 Search for pictures 
+- 2022-01-14 Complete peer-assessment
+- 2022-01-14 Complete the essay
+- 2022-01-17 Take the final-check
+- 
 <br>
 
 ## TODO
-- finish the essay
-- complete the peer assessment
+- Submit the assignment
 
 
 
